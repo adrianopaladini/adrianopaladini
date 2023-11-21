@@ -1,4 +1,4 @@
-## Olá! Eu sou o Adriano Paladini, desenvolvedor iOS Sênior.
+## Hi! I'm Adriano Paladini, iOS Senior Developer.
 <div>
  <a href="https://github.com/adrianopaladini">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianopaladini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
